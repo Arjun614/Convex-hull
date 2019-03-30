@@ -21,7 +21,7 @@ The only important class in this program is the ConvexHullUtil class.
 
 
     * Simply pass a list of points to a static method named
-      '  getConvexHullPoints ( ArrayList<Point> points )  ' and this method will return an 
+      getConvexHullPoints( ArrayList<Point> points ) and this method will return an 
        arraylist of convexhull points which can then be used in whatever ways. 
        
     * Point is a static inner class in ConvexHullUtil class.
