@@ -14,7 +14,9 @@ https://en.wikipedia.org/wiki/File:ConvexHull.svg
 
 The only important class in this program is the ConvexHullUtil class. 
 
-    * Simply pass a list of points to a static method named 'getConvexHullPoints(ArrayList<Point> points)' and this method will return an         arraylist of convexhull points which can then be used in whatever ways. 
+    * Simply pass a list of points to a static method named
+      'getConvexHullPoints(ArrayList<Point> points)' and this method will return an 
+      arraylist of convexhull points which can then be used in whatever ways. 
     * Point is a static inner class in ConvexHullUtil class.
     * In this project these points were simply drawn on the screen. 
     * Rest of the methods are self explanatory.
