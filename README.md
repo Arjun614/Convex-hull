@@ -5,8 +5,8 @@
 
 ## What is convex hull
 https://en.wikipedia.org/wiki/File:ConvexHull.svg
-*Convex hull points are those points which when connected together, wrap all other points inside them. And the distance of the path joining those points should be minimum.
-*The above figure displays an elastic band wrapped around random points. All the points touching the elastic band are convex hull points.
+* Convex hull points are those points which when connected together, wrap all other points inside them. And the distance of the path joining those points should be minimum.
+* The above figure displays an elastic band wrapped around random points. All the points touching the elastic band are convex hull points.
 
 
 
