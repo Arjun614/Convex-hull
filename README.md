@@ -22,3 +22,9 @@ The only important class in this program is the ConvexHullUtil class.
 ## About project
  this project was implemented in  JOGL ( Java Open GL) for visualising convex hull points. 
  IDE used - NET beans 
+
+
+Made by 
+  Arjun Doye 
+  Roll: 48
+  III year
