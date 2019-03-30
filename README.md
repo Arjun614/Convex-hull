@@ -4,7 +4,7 @@
 
 
 ## What is convex hull
-https://en.wikipedia.org/wiki/File:ConvexHull.svg
+<img src = "images/elastic.png" width = 400 />
 
 
 
@@ -31,7 +31,19 @@ The only important class in this program is the ConvexHullUtil class.
     * Rest of the methods are self explanatory.
 
 
+## Sample output
 
+* Light 45
+
+<img src = "images/light.jpg" width = 700 />
+
+* Medium 450
+
+<img src = "images/medium.jpg" width = 700 />
+
+* Dense 4500
+
+<img src = "images/dense.jpg" width = 700/>
 
 ## About project
 
